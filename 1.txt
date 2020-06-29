@@ -1,0 +1,9 @@
+刘书坤
+1.git init 创建版本库
+2.git add  往清单里放内容
+3.git commit 提交仓库
+4.git status 查看清单内容
+5.git log --pretty=oneline查看版本库内容
+6.git reset --hart HEAD回退上一个版本
+7.git reflog 查看操作
+8.git checkout -- 文件名
