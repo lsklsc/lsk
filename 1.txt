@@ -7,3 +7,9 @@
 6.git reset --hart HEAD回退上一个版本
 7.git reflog 查看操作
 8.git checkout -- 文件名
+
+git clone "地址" 克隆
+git branch name(分支名字)
+git brabch(看到所有分支)
+git checkout name (回到分支名字)
+git branch -D name(删除分支)
